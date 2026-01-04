@@ -333,7 +333,7 @@
   pointer-events: auto; /* مهم */
 }
 
-/*
+
 * ---------- MOBILE ---------- *
 @media (max-width: 768px) {
   .side-email {
@@ -354,4 +354,3 @@
     border-radius: 14px;
   }
 }
-*/
