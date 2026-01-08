@@ -1,4 +1,6 @@
 /* Page transition */
+
+/* --------------
 .page {
   opacity: 0;
   animation: fadeIn 0.6s ease forwards;
@@ -29,3 +31,4 @@
     transform: translateY(-10px);
   }
 }
+------------------*/
